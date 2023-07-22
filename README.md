@@ -28,7 +28,13 @@ Necesito tres ***asterisco para que esté en negrita y cursiva a la vez.***
 
 ![](Imagenes/lide.png)
 
-![La Barbie](Imagenes/barbie.jpg){width="1500"}
+![La Barbie](Imagenes/barbie.jpg)
 
 La página web del New Dimensions es <https://newdimensions.academy/>\
 También puedes ingresar haciendo click [aquí] (<https://newdimensions.academy/>).
+
+# Título
+
+## Subtítulo
+
+### Sub-subtítulo
